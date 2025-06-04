@@ -1,12 +1,12 @@
-# FAAI - Assignment 2: Building a Transactional Fraud Detection Model
+### FAAI - Assignment 2: Building a Transactional Fraud Detection Model
 
-## 📚 Introduction
+### 📚 Introduction
 
 In this assignment, we tackle the challenge of transactional fraud detection using the real-world `creditcard.csv` dataset. The primary goal is to apply, evaluate, and compare machine learning models—starting with a basic Decision Tree and then progressing to a more robust Random Forest classifier.
 
 ---
 
-## 🚀 Workflow Overview
+### 🚀 Workflow Overview
 
 1. **Data Loading & Exploration**
    - Loaded and explored `creditcard.csv` for class imbalance and key features.
@@ -32,7 +32,7 @@ In this assignment, we tackle the challenge of transactional fraud detection usi
 
 ---
 
-## 📊 Results & Comparison
+### 📊 Results & Comparison
 
 - **Decision Tree vs. Random Forest:**  
   - Random Forest generally provided better performance, especially after hyperparameter tuning and data balancing.
@@ -44,13 +44,13 @@ In this assignment, we tackle the challenge of transactional fraud detection usi
 
 ---
 
-## 📁 Files
+### 📁 Files
 
 - `assignment2_fraud_detection.ipynb` — Full code, analysis, and results for the assignment.
 
 ---
 
-## 📝 How to Use
+### 📝 How to Use
 
 1. Download `creditcard.csv` (available on [Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud)).
 2. Open and run `assignment2_fraud_detection.ipynb` in Jupyter Notebook or Google Colab.
@@ -58,7 +58,7 @@ In this assignment, we tackle the challenge of transactional fraud detection usi
 
 ---
 
-## 🧠 What I Learned
+### 🧠 What I Learned
 
 - How to build, tune, and evaluate Decision Tree and Random Forest models for fraud detection.
 - The importance of data balancing in highly imbalanced classification problems.
