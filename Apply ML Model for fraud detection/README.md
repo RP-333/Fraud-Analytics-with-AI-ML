@@ -67,6 +67,6 @@ In this assignment, we tackle the challenge of transactional fraud detection usi
 ---
 
 **See the assignment notebook:**  
-[assignment2_fraud_detection.ipynb](assignment2_fraud_detection.ipynb)  
+[assignment2_fraud_detection.ipynb](Assignment2 - Transactional Fraud Detection.ipynb)  
 for code, visualizations, and detailed analysis.
 
