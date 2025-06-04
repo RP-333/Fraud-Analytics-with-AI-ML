@@ -12,4 +12,4 @@ This section introduces the techniques of fraud analytics, its importance, and c
 - Understanding of the fraud analytics lifecycle.
 - Exposure to common fraud schemes and detection methods.
 
-See [assignment.ipynb](assignment.ipynb) for code and analysis.
+See the assignment - [Renu Prakash - FAAI - Assignment1 - EDA_final.ipynb](Renu%20Prakash%20-%20FAAI%20-%20Assignment1%20-%20EDA_final.ipynb) for code and analysis.
