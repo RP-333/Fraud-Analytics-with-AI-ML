@@ -39,5 +39,8 @@ Public credit card transaction dataset (Kaggle):
 - Fraud trend identification and feature insights
 
 ---
+## 📓 Notebook
+
+👉 [Click here to view the Jupyter Notebook](./credit_card_eda.ipynb)
 
 🔙 [Back to Main Portfolio](../README.md)
