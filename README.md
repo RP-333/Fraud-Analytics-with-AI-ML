@@ -116,46 +116,6 @@ By completing this course, I've developed expertise in:
 
 ---
 
-## 🎓 Course Curriculum Breakdown
-
-### **Module 1: Foundations** (Classes 1-3)
-
-* Course introduction and fraud analytics landscape
-* Python environment setup and EDA techniques
-* **Key Skills**: Data analysis, pattern recognition, Python programming
-
-### **Module 2: Transaction Fraud** (Classes 4-5)
-
-* Transaction fraud theory and business impact
-* AI/ML pipeline for transaction fraud detection
-* **Key Skills**: Transaction analysis, classification models, real-time detection
-
-### **Module 3: Identity Fraud** (Classes 6-7)
-
-* Identity fraud mechanisms and detection strategies
-* Advanced algorithms for identity verification
-* **Key Skills**: Identity verification, behavioral analysis, pattern matching
-
-### **Module 4: Advanced Fraud Types** (Classes 8-9)
-
-* Account takeover (ATO) and check kiting fraud
-* Specialized detection techniques and operational impacts
-* **Key Skills**: Account security, financial fraud patterns, risk assessment
-
-### **Module 5: Emerging Threats** (Classes 10-11)
-
-* Synthetic identity fraud and deep fake technology
-* Neural networks for advanced threat detection
-* **Key Skills**: Deep learning, computer vision, synthetic data detection
-
-### **Module 6: Industry Applications** (Classes 12-13)
-
-* KYC/AML compliance and regulatory requirements
-* Career development and industry opportunities
-* **Key Skills**: Compliance systems, industry best practices, career planning
-
----
-
 ## 📈 Fraud Types Expertise
 
 Through this comprehensive program, I've developed expertise in detecting and preventing:
