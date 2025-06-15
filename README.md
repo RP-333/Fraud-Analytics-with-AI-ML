@@ -7,8 +7,7 @@
 ## 📚 Program Context & Mentorship
 
 * **Program**: ELVTR Fraud Analytics with AI/ML
-* **Duration**: 6 weeks (August 27 - October 8, 2025)
-* **Format**: Live Online Classes
+* **Duration**: 6 weeks (May-June 2025)
 
 During this intensive program, I developed robust, **AI-powered fraud detection systems** through hands-on practical experience. My project work and applied learning were directly **coached and mentored by James Gearheart**, VP Senior Data Scientist at Wells Fargo, ensuring a strong focus on industry best practices and real-world application.
 
