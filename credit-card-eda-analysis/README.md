@@ -41,6 +41,6 @@ Public credit card transaction dataset (Kaggle):
 ---
 ## 📓 Notebook
 
-👉 [Click here to view the Jupyter Notebook](./credit_card_eda.ipynb)
+👉 [Click here to view the Jupyter Notebook](./Renu Prakash - FAAI - Assignment1 - EDA_final.ipynb)
 
 🔙 [Back to Main Portfolio](../README.md)
