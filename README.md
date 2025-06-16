@@ -140,10 +140,7 @@ Through this comprehensive program, I've developed expertise in detecting and pr
 
 ---
 
-## 📚 Repository Structure
-
-This repository is organized to clearly separate the portfolio overview from the detailed project code and resources.
-## 📁 Repository Structure
+## 📚 Repository Structure - 
 
 - [credit-card-eda-analysis](./credit-card-eda-analysis/)
 - [transaction-fraud-detection](./transaction-fraud-detection/)
