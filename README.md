@@ -143,3 +143,12 @@ Through this comprehensive program, I've developed expertise in detecting and pr
 ## 📚 Repository Structure
 
 This repository is organized to clearly separate the portfolio overview from the detailed project code and resources.
+## 📁 Repository Structure
+
+- [credit-card-eda-analysis](./credit-card-eda-analysis/)
+- [transaction-fraud-detection](./transaction-fraud-detection/)
+- [identity-fraud-detection](./identity-fraud-detection/)
+- [ato-checkkiting-detection](./ato-checkkiting-detection/)
+- [synthetic-identity-deepfake-detection](./synthetic-identity-deepfake-detection/)
+- [kyc-aml-compliance-system](./kyc-aml-compliance-system/)
+- README.md
