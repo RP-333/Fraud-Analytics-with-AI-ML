@@ -144,7 +144,7 @@ Through this comprehensive program, I've developed expertise in detecting and pr
 
 - [credit-card-eda-analysis](./credit-card-eda-analysis/)
 - [transaction-fraud-detection](./transaction-fraud-detection/)
-- [identity-fraud-detection](./identity-fraud-detection/)
+- [Identity-fraud-detection](./identity-fraud-detection/)
 - [ato-checkkiting-detection](./ato-checkkiting-detection/)
 - [synthetic-identity-deepfake-detection](./synthetic-identity-deepfake-detection/)
 - [kyc-aml-compliance-system](./kyc-aml-compliance-system/)
