@@ -89,7 +89,7 @@ By completing this course, I've developed expertise in:
 * **Dataset**: Provided ATO and check kiting datasets.
 * **Outcome**: **Multi-model solution** with detailed comparative analysis.
 
-📁 **Repository:** [ATO-CheckKiting-Detection](./ato-checkkiting-detection/)
+📁 **Repository:** [ATO-CheckKiting-Detection](./ATO-CheckKiting-Detection/)
 
 ---
 
