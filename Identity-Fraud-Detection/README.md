@@ -1,16 +1,16 @@
-# 👤 Identity Fraud Detection Using Machine Learning
+# Identity Fraud Detection Using Machine Learning
 
 This project focuses on detecting identity-based fraud by building a robust machine learning pipeline using transaction and identity features. Identity fraud is a growing concern in digital finance, often involving stolen or synthetic personal information used for unauthorized access.
 
 ---
 
-## 🎯 Goal
+## Goal
 
 Develop a supervised learning model capable of identifying suspicious identity patterns associated with fraudulent transactions. The objective is to improve fraud prevention mechanisms during identity verification stages.
 
 ---
 
-## 🛠️ Techniques Used
+## Techniques Used
 
 - **Data Merging & Preprocessing**:  
   - Combined identity and transaction datasets  
@@ -44,7 +44,7 @@ Develop a supervised learning model capable of identifying suspicious identity p
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 This project utilizes the [IEEE-CIS Fraud Detection dataset](https://www.kaggle.com/competitions/ieee-fraud-detection/data), which includes:
 - `train_transaction.csv`: transaction-level data
@@ -52,7 +52,7 @@ This project utilizes the [IEEE-CIS Fraud Detection dataset](https://www.kaggle.
 
 ---
 
-## ✅ Outcome & Deployment Insight
+## Outcome & Deployment Insight
 
 - Built a complete fraud classification pipeline integrating identity features.
 - Improved fraud detection performance using identity-linked behavioral patterns.
@@ -65,10 +65,10 @@ This project utilizes the [IEEE-CIS Fraud Detection dataset](https://www.kaggle.
 
 ---
 
-## 📓 Notebook
+## Notebook
 
-👉 [Click here to view the Jupyter Notebook](./IdentityFraud_Modeling.ipynb)
+[Click here to view the Jupyter Notebook](./IdentityFraud_Modeling.ipynb)
 
 ---
 
-🔙 [Back to Main Portfolio](../README.md)
+[Back to Main Portfolio](../README.md)
