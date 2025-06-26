@@ -1,16 +1,16 @@
-# 🔐 Transaction Fraud Detection with AI/ML
+# Transaction Fraud Detection with AI/ML
 
 This project focuses on building a machine learning pipeline to automatically detect fraudulent financial transactions using real-world data. It demonstrates how AI/ML techniques can effectively identify fraud patterns in large-scale, imbalanced datasets.
 
 ---
 
-## 🎯 Goal
+## Goal
 
 To design, train, and evaluate classification models that can accurately distinguish between legitimate and fraudulent transactions, reducing the need for manual fraud review.
 
 ---
 
-## 🛠️ Techniques Used
+## Techniques Used
 
 - **Data Cleaning & Preprocessing**
   - Handling missing values
@@ -34,7 +34,7 @@ To design, train, and evaluate classification models that can accurately disting
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 Kaggle's [Credit Card Fraud Detection Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud), containing:
 - 284,807 transactions
@@ -43,7 +43,7 @@ Kaggle's [Credit Card Fraud Detection Dataset](https://www.kaggle.com/datasets/m
 
 ---
 
-## ✅ Outcome
+## Final Outcome
 
 - Successfully developed a supervised fraud detection pipeline.
 - Achieved high ROC-AUC with Random Forest on imbalanced data.
@@ -52,11 +52,11 @@ Kaggle's [Credit Card Fraud Detection Dataset](https://www.kaggle.com/datasets/m
 
 ---
 
-## 📓 Notebook
+## Notebook
 
-👉 [Click here to view the Jupyter Notebook](./FraudDetection_Modeling.ipynb)
+ [Click here to view the Jupyter Notebook](./FraudDetection_Modeling.ipynb)
 
 ---
 
-🔙 [Back to Main Portfolio](../README.md)
+[Back to Main Portfolio](../README.md)
 
