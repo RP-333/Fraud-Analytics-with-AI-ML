@@ -1,10 +1,10 @@
-# 📊 Exploratory Data Analysis on Credit Card Transactions
+# Exploratory Data Analysis on Credit Card Transactions
 
 This project performs a deep dive into a credit card transaction dataset, uncovering insights critical to understanding fraud patterns and informing model development.
 
 ---
 
-## 🎯 Goal
+## Goal
 
 To conduct foundational EDA to identify:
 - Key variables contributing to fraud
@@ -14,7 +14,7 @@ To conduct foundational EDA to identify:
 
 ---
 
-## 🔍 Techniques Used
+## Techniques Used
 
 - Descriptive statistics
 - Correlation analysis
@@ -24,7 +24,7 @@ To conduct foundational EDA to identify:
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 Public credit card transaction dataset (Kaggle):
 - 284,807 transactions
@@ -32,16 +32,16 @@ Public credit card transaction dataset (Kaggle):
 
 ---
 
-## ✅ Outcome
+## Final Outcome
 
 - Jupyter Notebook with clean, annotated visual analysis
 - Key takeaways to inform modeling
 - Fraud trend identification and feature insights
 
 ---
-## 📓 Notebook
+## Notebook
 
-👉 [Click here to view the Jupyter Notebook](./FraudDetection_EDA.ipynb)
+[Click here to view the Jupyter Notebook](./FraudDetection_EDA.ipynb)
 
 
-🔙 [Back to Main Portfolio](../README.md)
+ [Back to Main Portfolio](../README.md)
