@@ -109,7 +109,7 @@ Through this comprehensive program, I've developed expertise in detecting and pr
 
 ### Programming & Tools
 
-* **Python** for fraud analytics
+* **Python** and **Advanced SQL** for fraud analytics
 * **Jupyter Notebook** environment
 * **Data Preprocessing** and feature engineering
 * **Machine Learning** algorithms for fraud detection
