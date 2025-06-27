@@ -51,7 +51,7 @@ Trained a fraud classifier using both transactional and identity metadata to cat
 
 ---
 
-### Project 3: Account Takeover & Check Kiting Detection
+### Project 3: Account Takeover Fraud Detection
 Modeled ATO and check kiting risks using behavior-based features to detect unauthorized session activity and financial manipulation.
 
 - **Techniques**: Time-based features, ensemble models, anomaly detection  
@@ -60,7 +60,7 @@ Modeled ATO and check kiting risks using behavior-based features to detect unaut
 
 ---
 
-### Project 4: Synthetic Identity & Deepfake Detection
+### Project 4: Deepfake Detection with Convolutional Neural Networks
 Built advanced ML and deep learning models to detect synthetic identities and manipulated media used in fraudulent verification processes.
 
 - **Techniques**: CNN, TensorFlow, MobileNetV2, hybrid tabular + image models  
