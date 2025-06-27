@@ -56,7 +56,7 @@ Modeled ATO and check kiting risks using behavior-based features to detect unaut
 
 - **Techniques**: Time-based features, ensemble models, anomaly detection  
 - **Outcome**: Multi-model comparison under class imbalance conditions, including PCA + Random Forest  
-[View Project →](https://github.com/RP-333/Fraud-Analytics-with-AI-ML/tree/main/ato-checkkiting-detection)
+[View Project →]([Account-Take-Over Fraud Detection](https://github.com/RP-333/Fraud-Analytics-with-AI-ML/tree/main/Account-Take-Over%20Fraud%20Detection))
 
 ---
 
