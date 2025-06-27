@@ -18,7 +18,7 @@ To conduct foundational EDA to identify:
 
 - Descriptive statistics
 - Correlation analysis
-- Histograms, boxplots, scatterplots
+- Histograms, boxplots, scatterplots, KDE Plots, Violin Plot
 - Class distribution visualization
 - Outlier detection (Z-score, IQR)
 
