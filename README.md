@@ -136,5 +136,5 @@ I'm passionate about using AI and data science to solve meaningful problems and 
 
 If you're building something impactful — let's connect, collaborate, and make a difference together.
 
-[LinkedIn – Renu Prakash](https://www.linkedin.com/in/renu-prakash)  
+[LinkedIn – Renu Prakash](https://www.linkedin.com/in/renu-t-prakash/) 
 [GitHub – RP-333](https://github.com/RP-333)
