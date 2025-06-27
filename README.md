@@ -125,8 +125,8 @@ Designed an end-to-end AI-based fraud monitoring system aligned with KYC and AML
 - [credit-card-eda-analysis](https://github.com/RP-333/Fraud-Analytics-with-AI-ML/tree/main/credit-card-eda-analysis)
 - [transaction-fraud-detection](https://github.com/RP-333/Fraud-Analytics-with-AI-ML/tree/main/transaction-fraud-detection)
 - [Identity-Fraud-Detection](https://github.com/RP-333/Fraud-Analytics-with-AI-ML/tree/main/Identity-Fraud-Detection)
-- [ato-checkkiting-detection](https://github.com/RP-333/Fraud-Analytics-with-AI-ML/tree/main/ato-checkkiting-detection)
-- [synthetic-identity-deepfake-detection](https://github.com/RP-333/Fraud-Analytics-with-AI-ML/tree/main/synthetic-identity-deepfake-detection)
+- [Account-Take Over Fraud-Detection](https://github.com/RP-333/Fraud-Analytics-with-AI-ML/tree/main/Account-Take-Over%20Fraud%20Detection)
+- [Deepfake-detection-with-Neural-Networks](https://github.com/RP-333/Fraud-Analytics-with-AI-ML/tree/main/Deepfake%20Detection%20with%20Neural%20Network)
 - [kyc-aml-compliance-system](https://github.com/RP-333/Fraud-Analytics-with-AI-ML/tree/main/kyc-aml-compliance-system)
 
 ---
