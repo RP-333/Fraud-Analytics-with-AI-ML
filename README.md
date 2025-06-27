@@ -1,5 +1,5 @@
 # Fraud Analytics with AI/ML Portfolio  
-**Curated by [Renu Prakash](https://github.com/RP-333)**  
+**Curated by [Renu Prakash](https://www.linkedin.com/in/renu-t-prakash/)**  
 **Mentored by James Gearheart, VP & Senior Data Scientist (AI/ML), Wells Fargo**
 
 Welcome to my fraud analytics portfolio — a collection of hands-on, end-to-end projects designed to simulate real-world challenges in financial crime detection using AI and machine learning. This repository showcases my practical skillset across a range of fraud types, modeling techniques, and regulatory contexts.
