@@ -36,7 +36,7 @@ A concise end-to-end project using deep learning to spot manipulated (deepfake) 
 
 ## Usage
 
-- Review or run the main notebook: [DeepfakeDetection_NeuralNet.ipynb](./DeepfakeDetection_NeuralNet.ipynb)
+- Review or run the main notebook: [Deepfake Detection with Neural Networks.ipynb](./Deepfake%20Detection%20with%20Neural%20Networks.ipynb)
 - Add more notebooks (`.ipynb`) in this folder for experiments or new datasets.
 
 ---
