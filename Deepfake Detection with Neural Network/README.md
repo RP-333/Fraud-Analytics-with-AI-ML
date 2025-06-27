@@ -6,10 +6,10 @@ This project demonstrates how neural network architectures can be used to detect
 
 ## Project Highlights
 
-- Built an end-to-end pipeline for deepfake detection using neural networks on real or synthetic media datasets.
-- Includes data preprocessing, model design/training, and thorough evaluation.
-- Focused on robust feature extraction from media inputs (e.g., images, video frames).
-- Achieved high detection accuracy and practical deployment potential.
+- End-to-end pipeline for deepfake detection using neural networks on media datasets.
+- Data preprocessing, model design/training, and thorough evaluation included.
+- Robust feature extraction from media inputs (e.g., images, video frames).
+- High detection accuracy and practical deployment potential.
 
 ---
 
@@ -24,9 +24,12 @@ This project demonstrates how neural network architectures can be used to detect
 
 ## Usage
 
-- Review or run the main notebook: [Deepfake Detection Notebook](./YOUR_NOTEBOOK_FILENAME.ipynb)
+- Review or run the main notebook: [Deepfake Detection with Neural Networks.ipynb](./Deepfake%20Detection%20with%20Neural%20Networks.ipynb)
 - Upload additional Jupyter Notebooks (`.ipynb`) in this directory for further experiments or results.
 
+---
+
+[Back to Main Portfolio](../README.md)
 ---
 
 [Back to Main Portfolio](../README.md)
