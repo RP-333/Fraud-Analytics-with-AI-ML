@@ -15,10 +15,10 @@ Through this portfolio, I demonstrate how modern data science — from explorato
 
 ## Core Competencies
 
-- AI-Driven Fraud Detection: Building ML models that identify and prevent high-risk activities
-- Behavioral & Identity Analytics: Capturing fraud signals from devices, metadata, and human patterns
-- Hands-on Project Execution: Full-cycle implementation from data ingestion to model validation
-- Compliance-Aware Design: Bridging technical solutions with KYC/AML regulatory needs
+- **AI-Driven Fraud Detection**: Building ML models that identify and prevent high-risk activities
+- **Behavioral & Identity Analytics**: Capturing fraud signals from devices, metadata, and human patterns
+- **Hands-on Project Execution**: Full-cycle implementation from data ingestion to model validation
+- **Compliance-Aware Design**: Bridging technical solutions with KYC/AML regulatory needs
 
 ---
 
@@ -27,8 +27,8 @@ Through this portfolio, I demonstrate how modern data science — from explorato
 ### Exploratory Data Analysis – Credit Card Fraud
 Performed a comprehensive EDA on credit card transactions to surface trends, outliers, and patterns related to fraud.
 
-- Techniques: Summary statistics, correlation heatmaps, KDE plots, time-based binning, outlier detection  
-- Outcome: Visual and statistical insights foundational to model design, risk scoring, and AML flag design  
+- **Techniques**: Summary statistics, correlation heatmaps, KDE plots, time-based binning, outlier detection  
+- **Outcome**: Visual and statistical insights foundational to model design, risk scoring, and AML flag design  
 [View Project →](https://github.com/RP-333/Fraud-Analytics-with-AI-ML/tree/main/credit-card-eda-analysis)
 
 ---
@@ -36,8 +36,8 @@ Performed a comprehensive EDA on credit card transactions to surface trends, out
 ### Project 1: Transaction Fraud Detection
 Developed an AI/ML pipeline to classify fraudulent transactions in imbalanced datasets.
 
-- Techniques: Random Forest, SMOTE, PCA, hyperparameter tuning, SHAP-based feature attribution  
-- Outcome: Fraud recall improved from 6% to 24%; supported sustained performance through model monitoring and threshold optimization  
+- **Techniques**: Random Forest, SMOTE, PCA, hyperparameter tuning, SHAP-based feature attribution  
+- **Outcome**: Fraud recall improved from 6% to 24%; supported sustained performance through model monitoring and threshold optimization  
 [View Project →](https://github.com/RP-333/Fraud-Analytics-with-AI-ML/tree/main/transaction-fraud-detection)
 
 ---
@@ -45,8 +45,8 @@ Developed an AI/ML pipeline to classify fraudulent transactions in imbalanced da
 ### Project 2: Identity Fraud Detection
 Trained a fraud classifier using both transactional and identity metadata to catch impersonation and synthetic identity attempts.
 
-- Techniques: XGBoost, K-Means clustering, feature engineering from identity and credit metadata  
-- Outcome: Achieved 41% increase in fraud recall; detected high-risk clusters based on account velocity and device data  
+- **Techniques**: XGBoost, K-Means clustering, feature engineering from identity and credit metadata  
+- **Outcome**: Achieved 41% increase in fraud recall; detected high-risk clusters based on account velocity and device data  
 [View Project →](https://github.com/RP-333/Fraud-Analytics-with-AI-ML/tree/main/Identity-Fraud-Detection)
 
 ---
@@ -54,8 +54,8 @@ Trained a fraud classifier using both transactional and identity metadata to cat
 ### Project 3: Account Takeover & Check Kiting Detection
 Modeled ATO and check kiting risks using behavior-based features to detect unauthorized session activity and financial manipulation.
 
-- Techniques: Time-based features, ensemble models, anomaly detection  
-- Outcome: Multi-model comparison under class imbalance conditions, including PCA + Random Forest  
+- **Techniques**: Time-based features, ensemble models, anomaly detection  
+- **Outcome**: Multi-model comparison under class imbalance conditions, including PCA + Random Forest  
 [View Project →](https://github.com/RP-333/Fraud-Analytics-with-AI-ML/tree/main/ato-checkkiting-detection)
 
 ---
@@ -63,8 +63,8 @@ Modeled ATO and check kiting risks using behavior-based features to detect unaut
 ### Project 4: Synthetic Identity & Deepfake Detection
 Built advanced ML and deep learning models to detect synthetic identities and manipulated media used in fraudulent verification processes.
 
-- Techniques: CNN, TensorFlow, MobileNetV2, hybrid tabular + image models  
-- Outcome: Achieved 88% accuracy; demonstrated superior performance over metadata-only models  
+- **Techniques**: CNN, TensorFlow, MobileNetV2, hybrid tabular + image models  
+- **Outcome**: Achieved 88% accuracy; demonstrated superior performance over metadata-only models  
 [View Project →](https://github.com/RP-333/Fraud-Analytics-with-AI-ML/tree/main/synthetic-identity-deepfake-detection)
 
 ---
@@ -72,8 +72,8 @@ Built advanced ML and deep learning models to detect synthetic identities and ma
 ### Project 5: KYC/AML Compliance System
 Designed an end-to-end AI-based fraud monitoring system aligned with KYC and AML guidelines.
 
-- Techniques: Regulatory feature design, risk scoring, compliance dashboard simulation  
-- Outcome: Simulated production-ready engine for transaction monitoring and AML compliance  
+- **Techniques**: Regulatory feature design, risk scoring, compliance dashboard simulation  
+- **Outcome**: Simulated production-ready engine for transaction monitoring and AML compliance  
 [View Project →](https://github.com/RP-333/Fraud-Analytics-with-AI-ML/tree/main/kyc-aml-compliance-system)
 
 ---
