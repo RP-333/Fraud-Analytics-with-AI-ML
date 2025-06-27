@@ -65,7 +65,7 @@ Built advanced ML and deep learning models to detect synthetic identities and ma
 
 - **Techniques**: CNN, TensorFlow, MobileNetV2, hybrid tabular + image models  
 - **Outcome**: Achieved 88% accuracy; demonstrated superior performance over metadata-only models  
-[View Project →](https://github.com/RP-333/Fraud-Analytics-with-AI-ML/tree/main/synthetic-identity-deepfake-detection)
+[View Project →](https://github.com/RP-333/Fraud-Analytics-with-AI-ML/tree/main/Deepfake%20Detection%20with%20Neural%20Network)
 
 ---
 
