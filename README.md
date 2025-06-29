@@ -36,9 +36,13 @@ Financial fraud is ever-evolving—exploiting identity, behavioral, and system v
   Created behavioral features at the customer level and applied Isolation Forest to flag the top 0.5% of high-risk accounts, uncovering patterns consistent with systematic float exploitation in synthetic banking transactions.  
   [View Project →](https://github.com/RP-333/Fraud-Analytics-with-AI-ML/tree/main/Check%20Kiting%20Detection%20using%20Unsupervised%20learning)
 
-- **Synthetic Identity Fraud Detection:**  
-  Built advanced classifiers using transactional and identity metadata, ensemble ML, and clustering to detect synthetic and impersonated identities—achieving a 41% increase in fraud recall and surfacing high-risk clusters via account velocity and device fingerprinting.  
+- **Identity Fraud Detection:**  
+  Built advanced classifiers using both transactional and identity metadata, ensemble ML, and clustering to catch impersonation and identity theft. Achieved a 41% increase in fraud recall and surfaced high-risk clusters using account velocity and device fingerprinting.  
   [View Project →](https://github.com/RP-333/Fraud-Analytics-with-AI-ML/tree/main/Identity-Fraud-Detection)
+
+- **Synthetic Identity Fraud Detection:**  
+  Modeled emerging synthetic identity risks using metadata and document analysis, neural networks, and tabular modeling to flag fake or mixed identities.  
+  [View Project →](https://github.com/RP-333/Fraud-Analytics-with-AI-ML/tree/main/Synthetic-Identity-Fraud-Detection) <!-- Update with correct link if needed -->
 
 - **More Projects:**  
   - Exploratory Data Analysis (EDA) for credit card fraud  
@@ -64,7 +68,8 @@ Financial fraud is ever-evolving—exploiting identity, behavioral, and system v
 | Fraud Type              | Detection Method                     | Key Technologies                            |
 |-------------------------|--------------------------------------|---------------------------------------------|
 | Transaction Fraud       | Supervised ML, anomaly detection     | Random Forest, SMOTE, PCA, SHAP             |
-| Synthetic Identity Fraud| Clustering & behavioral modeling     | XGBoost, K-Means, account velocity analysis |
+| Identity Fraud          | Clustering & behavioral modeling     | XGBoost, K-Means, account velocity analysis |
+| Synthetic Identity Fraud| Metadata & document analysis         | Neural nets, tabular modeling               |
 | Check Kiting            | Unsupervised anomaly detection       | Isolation Forest, behavioral profiling      |
 | Deepfakes               | Image/audio forensics                | CNN, MobileNetV2, TensorFlow                |
 | Account Takeover (ATO)  | Behavioral/session analysis          | PCA, Random Forest, time feature extraction |
@@ -77,7 +82,8 @@ Financial fraud is ever-evolving—exploiting identity, behavioral, and system v
 - [Transaction Fraud Detection](https://github.com/RP-333/Fraud-Analytics-with-AI-ML/tree/main/transaction-fraud-detection)
 - [Deepfake Detection with Neural Network](https://github.com/RP-333/Fraud-Analytics-with-AI-ML/tree/main/Deepfake%20Detection%20with%20Neural%20Network)
 - [Check Kiting Detection using Unsupervised Learning](https://github.com/RP-333/Fraud-Analytics-with-AI-ML/tree/main/Check%20Kiting%20Detection%20using%20Unsupervised%20learning)
-- [Synthetic Identity Fraud Detection](https://github.com/RP-333/Fraud-Analytics-with-AI-ML/tree/main/Identity-Fraud-Detection)
+- [Identity Fraud Detection](https://github.com/RP-333/Fraud-Analytics-with-AI-ML/tree/main/Identity-Fraud-Detection)
+- [Synthetic Identity Fraud Detection](https://github.com/RP-333/Fraud-Analytics-with-AI-ML/tree/main/Synthetic-Identity-Fraud-Detection) <!-- Update with correct link if needed -->
 - [Account Takeover Fraud Detection](https://github.com/RP-333/Fraud-Analytics-with-AI-ML/tree/main/Account-Take-Over%20Fraud%20Detection)
 - [KYC/AML Compliance System](https://github.com/RP-333/Fraud-Analytics-with-AI-ML/tree/main/kyc-aml-compliance-system)
 - [Credit Card EDA Analysis](https://github.com/RP-333/Fraud-Analytics-with-AI-ML/tree/main/credit-card-eda-analysis)
