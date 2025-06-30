@@ -42,7 +42,7 @@ Financial fraud is ever-evolving—exploiting identity, behavioral, and system v
 
 - **Synthetic Identity Fraud Detection:**  
   Modeled emerging synthetic identity risks using metadata and document analysis, neural networks, and tabular modeling to flag fake or mixed identities.  
-  [View Project →](https://github.com/RP-333/Fraud-Analytics-with-AI-ML/tree/main/Synthetic-Identity-Fraud-Detection) <!-- Update with correct link if needed -->
+  [View Project →](https://github.com/RP-333/Fraud-Analytics-with-AI-ML/tree/main/Sythetic%20Identity%20Fraud%20Detection) 
 
 - **More Projects:**  
   - Exploratory Data Analysis (EDA) for credit card fraud  
