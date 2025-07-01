@@ -12,7 +12,7 @@ This project demonstrates how modern AI and ML techniques can help financial ins
 
 ## My Journey: From Core Banking to Applied AI in Financial Crime
 
-At Punjab National Bank—India’s second-largest state-owned bank—I developed a CHAID-based Credit Fault Probability Model aligned with Reserve Bank of India (RBI) regulations. This model:
+During my previous experience at India’s second-largest nationalised bank—I developed a CHAID-based Credit Fault Probability Model aligned with Reserve Bank of India (RBI) regulations. The Reserve Bank of India (RBI) is the central banking institution of India, responsible for regulating the country’s monetary policy, supervising financial institutions, and enforcing risk management standards in the banking sector. This model:
 
 - Segmented borrowers by repayment risk
 - Flagged early signs of credit fraud
@@ -33,7 +33,7 @@ This work laid the foundation for my current AI-driven approach to financial cri
 
 ---
 
-## Projects in This Repository
+## Projects in my portfolio repository
 
 Each folder simulates a critical real-world AML/KYC fraud scenario. The models are modular, interpretable, and align with compliance priorities.
 
